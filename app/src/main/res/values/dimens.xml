@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_text_size">15sp</dimen>
+    <dimen name="pin_size">40dp</dimen>
+    <dimen name="layout_height">40dp</dimen>
+
+</resources>
